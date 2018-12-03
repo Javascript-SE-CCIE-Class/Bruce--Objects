@@ -1,6 +1,6 @@
 # Assignments on this repository
 
->From second Github Link - Github-2
+>From second Github Link - Github-2 (Penguins)
 
 [This is the link](https://github.com/NdauwaRafael/javascriptPracticeLesson/blob/lesson-3-objects/lesson_3_assignment.md)
 
